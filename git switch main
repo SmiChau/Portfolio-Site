@@ -1,0 +1,29 @@
+[33mcommit 3c567db993f52f0f979e6a7b89054b8356fa7dd1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: SmiChau <smichauxoxo@gmail.com>
+Date:   Tue Jan 13 11:05:36 2026 +0545
+
+    feat: add a background color
+
+[33mcommit 584fdb3425b218d68650f76bbe13f13523bb7b10[m[33m ([m[1;32mfeat/dark-mode[m[33m, [m[1;32mfeat/contact-session[m[33m)[m
+Author: SmiChau <smichauxoxo@gmail.com>
+Date:   Tue Jan 13 10:55:55 2026 +0545
+
+    Switch to main
+
+[33mcommit bd29a9ee8d682697cb191acf102b5727fe71f9ea[m
+Author: SmiChau <smichauxoxo@gmail.com>
+Date:   Tue Jan 13 10:50:50 2026 +0545
+
+    feat: add contact footer
+
+[33mcommit 0783f34152bd90cefc63401cabc885e434c7030c[m
+Author: SmiChau <smichauxoxo@gmail.com>
+Date:   Mon Jan 12 09:49:53 2026 +0545
+
+    Chore: add gitignore
+
+[33mcommit 71acce665c241b2a2abc9d3f3ceca762ef0f8936[m
+Author: SmiChau <smichauxoxo@gmail.com>
+Date:   Mon Jan 12 09:24:50 2026 +0545
+
+    Learning Git and Github
